@@ -1,0 +1,14 @@
+
+.hero-welcome {
+    padding-left: 64px;
+    padding-bottom: 64px;
+    padding-top: 140px;
+    width: 100%;
+    height: auto;
+}
+
+.title-large {
+    font-family: var(--title-font);
+    font-size: var(--title-large);
+    color: var(--primary-dark);
+}
